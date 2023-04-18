@@ -1,1 +1,1 @@
-# stock_graphs
+# stock_trend_graphs
